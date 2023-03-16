@@ -7,4 +7,4 @@
 
 复盘
 
-[Python基础](https://github.com/SleepBear2018/Python/edit/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/01-python%E7%AE%80%E4%BB%8B "基础")
+[Python基础](https://github.com/SleepBear2018/Python/blob/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/01-python%E7%AE%80%E4%BB%8B "基础")
